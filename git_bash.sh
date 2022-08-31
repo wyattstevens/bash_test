@@ -1,4 +1,5 @@
 
+echo "Enter the repository name"
 read repoName
 
 echo "# $repoName" >> README.md
